@@ -1,3 +1,5 @@
-public class DummyClass {
+private class DummyClass {
 //blabla
+	private static void bla(){
+	}
 }
