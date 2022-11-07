@@ -5,7 +5,7 @@ public class AccountAfterDeleteTriggerHandler {
 	* @description Main Entry point for trigger handling
 	* @param TriggerParameters Contains the trigger parameters
 	*/
-	public override void mainEntry() {
+	public  void mainEntry() {
 //test
 	}
 }
