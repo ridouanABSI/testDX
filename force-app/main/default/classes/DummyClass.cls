@@ -1,4 +1,4 @@
-private class DummyClass {
+public class DummyClass {
 //blabla
 	private static void bla(String param1,String param2){
 		System.debug(param1);
@@ -7,5 +7,4 @@ private class DummyClass {
 	}
 	private static void bla(String param1){
 	}
-}
 }
